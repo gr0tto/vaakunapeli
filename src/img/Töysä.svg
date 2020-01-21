@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="535"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docbase=""
+   sodipodi:docname="Töysä.vaakuna.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 267.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 267.5 : 1"
+       inkscape:persp3d-origin="250 : 178.33333 : 1"
+       id="perspective9" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="287.35131"
+     inkscape:cy="297.835"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1012"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#0055d4;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0.5,0.5 L 499.5,0.5 L 470,335 C 467,360 460,381 450,405 C 415,480 350,534.5 250,534.5 C 150,534.5 85,480 50,405 C 40,381 33,360 30,335 L 0.5,0.5 z "
+       id="path1333"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccc"
+       id="path3085"
+       d="M 50,405 C 50,360 70,340 113,338 C 100,295 120,260 170,265 C 155,240 175,195 220,195 L 220,140 C 185,140 160,140 150,150 L 150,75 C 160,85 185,85 220,85 C 220,50 220,35 210,20 L 290,20 C 280,35 280,50 280,85 C 315,85 340,85 350,75 L 350,150 C 340,140 315,140 280,140 L 280,195 C 325,195 345,240 330,265 C 380,260 400,295 387,338 C 430,340 450,360 450,405 C 415,480 350,534.5 250,534.5 C 150,534.5 85,480 50,405 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>

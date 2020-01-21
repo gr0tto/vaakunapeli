@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="550"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Vieremä.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.84"
+     inkscape:cx="250"
+     inkscape:cy="275"
+     inkscape:window-x="115"
+     inkscape:window-y="63"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs7">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 275 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 275 : 1"
+       inkscape:persp3d-origin="250 : 183.33333 : 1"
+       id="perspective11" />
+  </defs>
+  <g
+     id="layer1" />
+  <g
+     id="layer2">
+    <path
+       d="M 0,0 L 500,0 L 490,325 C 480,450 375,550 250,550 C 125,550 20,450 10,325 L 0,0 z "
+       style="fill: black; fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path1941" />
+    <path
+       d="M 250,20 L 225,40 L 225,85 L 205,65 L 180,65 L 180,90 L 225,130 L 225,240 L 160,175 L 160,105 L 145,90 L 130,105 L 130,145 L 90,105 L 65,105 L 65,130 L 105,170 L 65,170 L 50,185 L 65,200 L 135,200 L 225,290 L 225,400 L 5.5625,180.5625 L 9.53125,309.53125 L 250,550 L 490.46875,309.53125 L 494.4375,180.5625 L 275,400 L 275,290 L 365,200 L 435,200 L 450,185 L 435,170 L 395,170 L 435,130 L 435,105 L 410,105 L 370,145 L 370,105 L 355,90 L 340,105 L 340,175 L 275,240 L 275,130 L 320,90 L 320,65 L 295,65 L 275,85 L 275,40 L 250,20 z "
+       style="fill:#bf9f4f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path1943" />
+  </g>
+</svg>

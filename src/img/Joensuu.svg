@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="565"
+   id="svg1974"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Joensuu.vaakuna.svg"
+   sodipodi:docbase="/home/jarkko/gfx/wiki"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="692"
+     inkscape:window-width="1008"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="504.78158"
+     inkscape:cy="307.72091"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:current-layer="layer2"
+     showgrid="false" />
+  <defs
+     id="defs1977">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 282.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 282.5 : 1"
+       inkscape:persp3d-origin="250 : 188.33333 : 1"
+       id="perspective11" />
+  </defs>
+  <g
+     id="layer2">
+    <g
+       id="g2844">
+      <path
+         id="path1986"
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1,1 L 499,1 L 499,340 C 499,465 380,564 250,564 C 120,564 1,465 1,340 L 1,1 z " />
+      <path
+         id="path2833"
+         d="M 39 1 L 467.15625 447.78125 C 487.272 415.92218 499 379.24308 499 340 L 499 1 L 39 1 z "
+         style="opacity:1;fill:red;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path2880"
+         d="M 2 2 C 2 2 1.5 142.1875 1.5 142.1875 C 13.972513 180.23428 47.964937 168.06339 61.21875 186.71875 C 77.181266 209.18674 62.213846 210.63719 78.90625 237.625 C 96.031523 265.31269 122.57001 255.27841 138.53125 275.28125 C 154.49249 295.28412 142.6016 310.81655 154.9375 330.53125 C 167.27339 350.24597 196.16228 339.97428 216.28125 366.15625 C 232.09778 386.73921 223.13979 397.29479 235.71875 418.9375 C 250.57453 444.49756 279.3436 435.59273 295.46875 456.96875 C 308.95147 474.8419 295.87199 488.12827 312.5625 508.09375 C 329.3563 528.18279 375.06251 530.87499 375.0625 530.875 C 414.81771 510.26119 468.7244 464.32858 487.375 403.46875 C 487.375 403.46875 441.93751 402.875 441.9375 402.875 C 441.9375 402.875 441.91053 372.57273 441.90625 347.03125 L 471.46875 347.03125 L 471.46875 289.40625 L 414.53125 289.40625 L 414.53125 316.3125 C 392.5398 316.20803 367.15624 316.09375 367.15625 316.09375 C 367.15625 316.09375 367.24931 283.48088 367.3125 257.21875 L 394.03125 257.21875 L 394.03125 199.59375 L 337.125 199.59375 L 337.125 227.1875 C 313.02525 226.99244 285.375 226.78125 285.375 226.78125 C 285.375 226.78125 285.31742 191.80786 285.28125 166 L 315.53125 166 L 315.53125 108.375 L 258.625 108.375 L 258.625 139.03125 C 242.37937 138.91513 223.06801 138.77875 209.71875 138.53125 C 209.71875 138.53125 209.7005 104.96497 209.6875 78.84375 L 240.65625 78.84375 L 240.65625 21.21875 L 183.71875 21.21875 L 183.71875 50.28125 C 162.49173 50.244651 137.6875 50.187501 137.6875 50.1875 C 137.6875 50.1875 137.12501 2.1562501 137.125 2.15625 C 137.125 2.15625 2.0000001 2 2 2 z "
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1" />
+    </g>
+  </g>
+</svg>

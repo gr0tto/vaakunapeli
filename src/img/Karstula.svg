@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="560"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/"
+   sodipodi:docname="Karstula.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 280 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 280 : 1"
+       inkscape:persp3d-origin="250 : 186.66667 : 1"
+       id="perspective12" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="486.32053"
+     inkscape:cy="296.6573"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1012"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2006-03-11</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Hippophaë, Wikipedia</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Karstulan vaakuna, Karstula vapen, Coat of arms of Karstula</dc:title>
+        <dc:identifier>http://commons.wikimedia.org/wiki/Image:Karstula.vaakuna.svg</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Karstula</rdf:li>
+            <rdf:li>vaakuna</rdf:li>
+            <rdf:li>vapen</rdf:li>
+            <rdf:li>coat of arms</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:rgb(255, 0, 0);fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0.5,0.5 L 499.5,0.5 L 499.5,330 C 499.5,405 420,559.5 250,559.5 C 80,559.5 0.5,405 0,330 L 0.5,0.5 z "
+       id="path5773"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:rgb(223, 223, 223);fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 196,324 L 196,423 C 196,438 185,455 166,455 C 149,455 138,435 139,411 L 134,411 C 127,424 125,436 125,451 C 125,471 155,498 180,498 C 214,498 232,482 250,460 C 268,482 286,498 320,498 C 345,498 375,471 375,451 C 375,436 373,424 366,411 L 361,411 C 362,435 351,455 334,455 C 315,455 304,438 304,423 L 304,324 L 388.5,324 C 403.5,324 420.5,335 420.5,354 C 420.5,371 400.5,382 376.5,381 L 376.5,386 C 389.5,393 401.5,395 416.5,395 C 436.5,395 463.5,365 463.5,340 C 463.5,306 447.5,288 425.5,270 C 447.5,252 463.5,234 463.5,200 C 463.5,175 436.5,145 416.5,145 C 401.5,145 389.5,147 376.5,154 L 376.5,159 C 400.5,158 420.5,169 420.5,186 C 420.5,205 403.5,216 388.5,216 L 304,216 L 304,117 C 304,102 315,85 334,85 C 351,85 362,105 361,129 L 366,129 C 373,116 375,104 375,89 C 375,69 345,42 320,42 C 286,42 268,58 250,80 C 232,58 214,42 180,42 C 155,42 125,69 125,89 C 125,104 127,116 134,129 L 139,129 C 138,105 149,85 166,85 C 185,85 196,102 196,117 L 196,216 L 111.5,216 C 96.5,216 79.5,205 79.5,186 C 79.5,169 99.5,158 123.5,159 L 123.5,154 C 110.5,147 98.5,145 83.5,145 C 63.5,145 36.5,175 36.5,200 C 36.5,234 52.5,252 75.5,270 C 52.5,288 36.5,306 36.5,340 C 36.5,365 63.5,395 83.5,395 C 98.5,395 110.5,393 123.5,386 L 123.5,381 C 99.5,382 79.5,371 79.5,354 C 79.5,335 96.5,324 111.5,324 L 196,324 z "
+       id="path4871"
+       sodipodi:nodetypes="ccsccsscssccscccsccsscssccscccsccsscccccccccsccsscssccscc" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       id="path4876"
+       d="M 124313.5,270 L 124367.5,216 L 124367.5,117 C 124367.5,102 124378.5,85 124397.5,85 C 124414.5,85 124425.5,105 124424.5,129 L 124429.5,129 C 124436.5,116 124439.5,104 124438.5,89 C 124438.5,69 124408.5,42 124383.5,42 C 124349.5,42 124331.5,58 124313.5,80 L 124313.5,270 z "
+       style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:rgb(255, 0, 0);fill-opacity:1;stroke:rgb(0, 0, 0);stroke-width:0.50724652;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4896"
+       sodipodi:cx="250"
+       sodipodi:cy="235"
+       sodipodi:rx="35"
+       sodipodi:ry="35"
+       d="M 285 235 A 35 35 0 1 1  215,235 A 35 35 0 1 1  285 235 z"
+       transform="matrix(0.985714, 0, 0, 0.985714, 3.57143, 3.85714)" />
+    <path
+       style="fill:rgb(255, 0, 0);fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 236,266.5 L 215,325 C 240,333 260,333 285,325 L 264,266.5"
+       id="path5771"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>

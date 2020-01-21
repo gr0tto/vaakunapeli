@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="565"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Pyhäjärvi.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 282.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 282.5 : 1"
+       inkscape:persp3d-origin="250 : 188.33333 : 1"
+       id="perspective13" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.28910029"
+     inkscape:cx="250"
+     inkscape:cy="282.5"
+     inkscape:window-x="161"
+     inkscape:window-y="63"
+     inkscape:current-layer="svg2" />
+  <g
+     id="layer2">
+    <path
+       d="M 0,0 L 500,0 L 500,340 C 500,465 375,565 250,565 C 125,565 7.6537897e-15,465 0,340 L 0,0 z "
+       style="fill:#0057f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2000" />
+    <path
+       d="M 250,25 L 170,125 L 170,551.65625 C 195.82129,560.28893 222.90576,565 250,565 C 277.09424,565 304.17871,560.28893 330,551.65625 L 330,125 L 250,25 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2002" />
+    <path
+       d="M 380,205 L 445,205 C 445,205 430,240 430,255 C 445,255 475,240 475,240 L 475,305 C 475,305 450,290 435,290 L 412.47834,389.87373 L 390,290 C 375,290 350,305 350,305 C 350,305 350,240 350,240 C 350,240 380,255 395,255 C 395,240 380,205 380,205 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2007" />
+    <use
+       transform="translate(-325)"
+       id="use3789"
+       xlink:href="#path2007"
+       style="fill:#cccccc" />
+  </g>
+</svg>

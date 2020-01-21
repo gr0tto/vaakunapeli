@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="453.79999pt"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/home/daeron"
+   sodipodi:docname="Ylöjärvi.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 283.625 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 283.625 : 1"
+       inkscape:persp3d-origin="250 : 189.08333 : 1"
+       id="perspective11" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4160423"
+     inkscape:cx="250"
+     inkscape:cy="291.87286"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1136"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5852">
+      <path
+         id="path1397"
+         d="M 0.51798421,1.787677 C 166.84567,1.787677 333.17335,1.787677 499.50104,1.787677 C 499.17851,111.57134 500.15528,221.38236 498.99586,331.14844 C 493.43792,439.56979 409.6822,538.15843 303.40011,560.6277 C 209.64418,582.63924 105.82814,542.95598 49.880507,464.65908 C 13.520451,416.56551 -2.5224532,355.44547 0.5179842,295.63486 C 0.5179842,197.6858 0.51798421,99.736738 0.51798421,1.787677 z "
+         style="fill: rgb(218, 37, 29); fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-opacity: 1;" />
+      <path
+         id="path1415"
+         d="M 0.49919501,1.8084981 C 0.49919501,36.734192 0.49919501,71.659885 0.49919501,106.58558 C 60.753059,174.2537 121.00692,241.92182 181.26079,309.58994 C 181.26079,391.9797 181.26079,474.36946 181.26079,556.75922 C 225.85253,569.74769 274.14406,569.7669 318.72045,556.69936 C 318.72045,474.32955 318.72046,391.95974 318.72046,309.58994 C 378.97432,241.92182 439.22819,174.2537 499.48206,106.58558 C 499.48206,71.659885 499.48206,36.734192 499.48206,1.8084981 C 472.16567,1.8084981 444.84928,1.8084981 417.5329,1.8084981 C 361.67661,66.047661 305.82032,130.28682 249.96404,194.52599 C 193.01278,130.28682 136.06153,66.047661 79.110275,1.8084981 C 52.906582,1.8084981 26.702888,1.8084981 0.49919501,1.8084981 z "
+         style="fill:#bf9f4e;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="rect2321"
+         d="M 234.08324,28.102489 C 234.08324,43.529465 234.08324,58.95644 234.08324,74.383415 C 218.65626,74.383415 203.22928,74.383415 187.80231,74.383415 C 187.80231,84.668068 187.80231,94.952721 187.80231,105.23737 C 203.22928,105.23737 218.65626,105.23737 234.08324,105.23737 C 234.08324,120.66434 234.08324,136.09131 234.08324,151.51828 C 244.36789,151.51828 254.65254,151.51828 264.93719,151.51828 C 264.93719,136.09131 264.93719,120.66434 264.93719,105.23737 C 280.36417,105.23737 295.79114,105.23737 311.21811,105.23737 C 311.21811,94.952721 311.21811,84.668068 311.21811,74.383415 C 295.79114,74.383415 280.36417,74.383415 264.93719,74.383415 C 264.93719,58.95644 264.93719,43.529465 264.93719,28.102489 C 254.65254,28.102489 244.36789,28.102489 234.08324,28.102489 z "
+         style="fill:#bf9f4e;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

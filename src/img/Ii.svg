@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="530"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Ii.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="718"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.87169811"
+     inkscape:cx="250"
+     inkscape:cy="265"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs23">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 265 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 265 : 1"
+       inkscape:persp3d-origin="250 : 176.66667 : 1"
+       id="perspective12" />
+  </defs>
+  <g
+     id="layer2">
+    <path
+       d="M 2,2 L 498,2 L 498,280 C 498,405 375,528 250,528 C 125,528 2,405 2,280 L 2,2 z "
+       style="opacity:1;fill:#c39d34;fill-opacity:1;fill-rule:evenodd;stroke:rgb(1, 138, 208);stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1970" />
+    <path
+       d="M 0,265 L 0,280 C 1.3100632e-14,405 125,530 250,530 C 375,530 500,405 500,280 L 500,265 L 0,265 z "
+       style="fill:#0057f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4812" />
+    <path
+       d="M 2.3125,255 L 49.59375,330.28125 L 22.375,373.625 C 24.048631,377.13909 25.786391,380.6095 27.625,384.0625 L 55.5,339.6875 L 88.46875,392.15625 L 61.96875,434.34375 C 64.219811,436.98828 66.529835,439.5897 68.875,442.15625 L 94.375,401.5625 L 127.25,453.90625 L 110.8125,480.09375 C 113.50088,482.09104 116.21937,484.04039 118.96875,485.9375 L 133.15625,463.3125 L 162.90625,510.625 C 168.116,512.92826 173.37317,515.04824 178.6875,516.96875 L 177.65625,515.3125 L 210.5625,462.90625 L 243.75,515.6875 L 235.15625,529.375 C 238.9733,529.67185 242.80226,529.86881 246.625,529.9375 L 249.65625,525.125 L 252.6875,529.96875 C 256.52057,529.91386 260.35972,529.7222 264.1875,529.4375 L 255.5625,515.71875 L 288.75,462.875 L 321.65625,515.28125 L 320.375,517.3125 C 325.67869,515.42099 330.92396,513.33573 336.125,511.0625 L 366.15625,463.28125 L 380.59375,486.25 C 383.34134,484.36178 386.06297,482.42577 388.75,480.4375 L 372.0625,453.875 L 404.9375,401.5 L 430.75,442.59375 C 433.09987,440.03201 435.4002,437.42119 437.65625,434.78125 L 410.84375,392.09375 L 443.8125,339.59375 L 472.09375,384.59375 C 473.93108,381.16186 475.66934,377.71146 477.34375,374.21875 L 449.71875,330.21875 L 496.9375,255 L 485.125,255 L 443.8125,320.8125 L 410.875,268.375 L 419.28125,255 L 407.46875,255 L 404.96875,259 L 402.46875,255 L 390.65625,255 L 399.0625,268.375 L 366.09375,320.875 L 332.90625,268.0625 L 341.125,255 L 329.3125,255 L 327.03125,258.65625 L 324.71875,255 L 312.90625,255 L 321.125,268.0625 L 288.21875,320.4375 L 255.5625,268.4375 L 264,255 L 252.1875,255 L 249.65625,259.03125 L 247.125,255 L 235.3125,255 L 243.75,268.4375 L 211.09375,320.46875 L 178.1875,268.09375 L 186.40625,255 L 174.59375,255 L 172.28125,258.6875 L 169.96875,255 L 158.15625,255 L 166.375,268.09375 L 133.1875,320.9375 L 100.21875,268.46875 L 108.6875,255 L 96.875,255 L 94.3125,259.0625 L 91.78125,255 L 79.96875,255 L 88.4375,268.46875 L 55.5,320.875 L 14.125,255 L 2.3125,255 z M 327.03125,277.46875 L 360.1875,330.28125 L 327.3125,382.65625 L 294.125,329.84375 L 327.03125,277.46875 z M 172.28125,277.5 L 205.1875,329.84375 L 172,382.6875 L 139.09375,330.34375 L 172.28125,277.5 z M 404.96875,277.78125 L 437.90625,330.1875 L 404.9375,382.6875 L 372,330.28125 L 404.96875,277.78125 z M 94.34375,277.84375 L 127.28125,330.34375 L 94.375,382.75 L 61.40625,330.28125 L 94.34375,277.84375 z M 249.65625,277.84375 L 282.3125,329.84375 L 249.65625,381.84375 L 217,329.84375 L 249.65625,277.84375 z M 211.09375,339.25 L 243.75,391.25 L 210.5625,444.09375 L 177.90625,392.09375 L 211.09375,339.25 z M 288.25,339.25 L 321.40625,392.03125 L 288.75,444.0625 L 255.5625,391.28125 L 288.25,339.25 z M 366.09375,339.6875 L 399.03125,392.09375 L 366.125,444.46875 L 333.21875,392.0625 L 366.09375,339.6875 z M 133.1875,339.71875 L 166.09375,392.09375 L 133.15625,444.5 L 100.28125,392.15625 L 133.1875,339.71875 z M 249.65625,400.65625 L 282.84375,453.46875 L 249.65625,506.3125 L 216.46875,453.5 L 249.65625,400.65625 z M 327.3125,401.4375 L 360.25,453.875 L 327.5625,505.90625 L 294.65625,453.46875 L 327.3125,401.4375 z M 172,401.5 L 204.65625,453.5 L 171.75,505.90625 L 139.0625,453.90625 L 172,401.5 z "
+       style="fill:#c39d34;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1972" />
+    <path
+       d="M 250,85 C 260,85 260,70 250,70 C 240,70 240,85 250,85 z M 250,120 C 240,105 200,80 180,80 L 120,80 L 170,205 C 170,205 135,245 100,245 C 65,245 30,205 30,205 L 80,80 C 80,75 60,45 30,40 L 30,25 C 60,25 80,45 80,50 L 95,50 L 100,40 L 105,50 L 395,50 L 400,40 L 405,50 L 420,50 C 420,45 440,25 470,25 L 470,40 C 440,45 420,75 420,80 L 470,205 C 470,205 435,245 400,245 C 365,245 330,205 330,205 L 380,80 L 320,80 C 300,80 260,105 250,120 z M 395,80 L 395,200 L 345,200 L 395,80 z M 405,80 L 405,200 L 455,200 L 405,80 z M 105,80 L 105,200 L 155,200 L 105,80 z M 95,80 L 95,200 L 45,200 L 95,80 z "
+       style="fill:#0057f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3909" />
+  </g>
+</svg>

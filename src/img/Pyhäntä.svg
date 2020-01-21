@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="540"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Pyhäntä.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.85555556"
+     inkscape:cx="250"
+     inkscape:cy="270"
+     inkscape:window-x="92"
+     inkscape:window-y="63"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 270 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 270 : 1"
+       inkscape:persp3d-origin="250 : 180 : 1"
+       id="perspective26" />
+  </defs>
+  <g
+     id="layer1" />
+  <g
+     id="layer2">
+    <path
+       d="M 0,0 L 500,0 L 500,315 C 500,440 375,540 250,540 C 125,540 7.6537897e-15,440 0,315 L 0,0 z "
+       style="fill: rgb(222, 31, 39); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path1982" />
+    <path
+       d="M 0.71875,331.03125 C 2.3303208,349.77031 6.7232232,367.84514 13.46875,385 L 486.53125,385 C 491.13332,373.29627 494.65919,361.16811 496.9375,348.6875 L 0.71875,331.03125 z "
+       style="fill: rgb(78, 76, 77); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path2914" />
+    <path
+       d="M 0.28125,325 C 1.292013,343.90336 5.1522202,362.15957 11.40625,379.53125 L 488.59375,379.53125 C 494.84778,362.15957 498.70799,343.90336 499.71875,325 L 0.28125,325 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2916" />
+    <path
+       d="M 47.375,442.625 C 63.616941,462.69563 83.286671,480.39707 105.25,495 L 394.75,495 C 411.4629,483.88796 426.84381,470.96926 440.40625,456.59375 L 47.375,442.625 z "
+       style="fill: rgb(78, 76, 77); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path2920" />
+    <path
+       d="M 41.4375,435 C 56.856125,455.72858 75.902918,474.13542 97.375,489.53125 L 402.625,489.53125 C 424.09708,474.13542 443.14388,455.72858 458.5625,435 L 41.4375,435 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2922" />
+    <path
+       d="M 0,221.0625 L 0,275 L 500,275 L 500,238.875 L 0,221.0625 z "
+       style="fill: rgb(78, 76, 77); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path2908" />
+    <path
+       d="M 0,215 L 0,269.53125 L 500,269.53125 L 500,215 L 0,215 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2910" />
+    <path
+       d="M 50,140 L 36.4375,428 C 48.588361,445.67288 63.33514,461.79773 80,475.96875 L 80,165 L 55,140 L 50,140 z "
+       style="fill: rgb(78, 76, 77); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path2876" />
+    <path
+       d="M 50,140 L 25,165 L 25,409.5 C 37.762721,432.61954 54.856827,453.59585 75,471.625 L 75,165 L 50,140 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path1984" />
+    <path
+       d="M 150,140 L 132.53125,510.9375 C 147.71459,518.68084 163.63314,525.01502 180,529.78125 L 180,165 L 155,140 L 150,140 z "
+       style="fill: rgb(78, 76, 77); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path2884" />
+    <path
+       d="M 150,140 L 125,165 L 125,506.9375 C 140.8852,515.66785 157.67886,522.86605 175,528.28125 L 175,165 L 150,140 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2886" />
+    <path
+       d="M 250,140 L 231.21875,539.25 C 237.46941,539.74318 243.73359,540 250,540 C 260.01733,540 270.04701,539.37084 280,538.125 L 280,165 L 255,140 L 250,140 z "
+       style="fill: rgb(78, 76, 77); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path2890" />
+    <path
+       d="M 250,140 L 225,165 L 225,538.6875 C 233.30748,539.5565 241.65533,540 250,540 C 258.34467,540 266.69252,539.5565 275,538.6875 L 275,165 L 250,140 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2892" />
+    <path
+       d="M 350,140 L 331.84375,526.0625 C 348.55906,520.34007 364.72984,512.96794 380,504.15625 L 380,165 L 355,140 L 350,140 z "
+       style="fill: rgb(78, 76, 77); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path2896" />
+    <path
+       d="M 350,140 L 325,165 L 325,528.28125 C 342.32114,522.86605 359.1148,515.66785 375,506.9375 L 375,165 L 350,140 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2898" />
+    <path
+       d="M 450,140 L 434.84375,462.3125 C 453.36308,443.89008 468.79933,422.83381 480,399.84375 L 480,165 L 455,140 L 450,140 z "
+       style="fill: rgb(78, 76, 77); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       id="path2902" />
+    <path
+       d="M 450,140 L 425,165 L 425,471.625 C 445.14317,453.59585 462.23728,432.61954 475,409.5 L 475,165 L 450,140 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2904" />
+  </g>
+</svg>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="565"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Evijärvi.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata74">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.40884956"
+     inkscape:cx="250"
+     inkscape:cy="282.5"
+     inkscape:window-x="23"
+     inkscape:window-y="23"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs7">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 282.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 282.5 : 1"
+       inkscape:persp3d-origin="250 : 188.33333 : 1"
+       id="perspective76" />
+    <linearGradient
+       id="linearGradient8237">
+      <stop
+         style="stop-color: black; stop-opacity: 1;"
+         offset="0"
+         id="stop8239" />
+      <stop
+         style="stop-color: black; stop-opacity: 0;"
+         offset="1"
+         id="stop8241" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3668">
+      <stop
+         style="stop-color: rgb(239, 30, 36); stop-opacity: 1;"
+         offset="0"
+         id="stop3670" />
+      <stop
+         style="stop-color: rgb(239, 30, 36); stop-opacity: 0;"
+         offset="1"
+         id="stop3672" />
+    </linearGradient>
+    <linearGradient
+       x1="59.5"
+       y1="85.057976"
+       x2="53.785576"
+       y2="56.653992"
+       id="linearGradient3674"
+       xlink:href="#linearGradient3668"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="172.8943"
+       y1="200.06236"
+       x2="237.84836"
+       y2="230.82152"
+       id="linearGradient8243"
+       xlink:href="#linearGradient8237"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="170.5"
+       y1="210.5"
+       x2="233.08058"
+       y2="242.36182"
+       id="linearGradient8245"
+       xlink:href="#linearGradient8237"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="175.44453"
+       y1="222.82323"
+       x2="232.78769"
+       y2="253.69576"
+       id="linearGradient8247"
+       xlink:href="#linearGradient8237"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="176.62132"
+       y1="235.5"
+       x2="229.03954"
+       y2="267.63678"
+       id="linearGradient8249"
+       xlink:href="#linearGradient8237"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="179.18198"
+       y1="252.79289"
+       x2="226.62531"
+       y2="279.47626"
+       id="linearGradient8251"
+       xlink:href="#linearGradient8237"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="179"
+       y1="266.5"
+       x2="227.45374"
+       y2="294.54486"
+       id="linearGradient8253"
+       xlink:href="#linearGradient8237"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="180.5"
+       y1="279.5"
+       x2="227.09834"
+       y2="306.61807"
+       id="linearGradient8255"
+       xlink:href="#linearGradient8237"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1" />
+  <g
+     id="layer2">
+    <path
+       d="M 1,1 L 499,1 L 499,365 C 499,465 375,564 250,564 C 125,564 1,465 1,365 L 1,1 z "
+       style="fill: rgb(0, 139, 208); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 2; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+       id="path1999" />
+    <g
+       id="g7299">
+      <path
+         d="M 161,187 C 189.85425,191.18887 218.83335,197.50027 249,224 C 232.98528,254.74816 234.042,284.06775 230,317.5 C 210.33333,306.47779 190.66667,294.06788 171,292 L 161,187 z "
+         style="opacity: 1; fill: rgb(239, 30, 36); fill-opacity: 1; fill-rule: evenodd; stroke: black; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path1877" />
+      <path
+         d="M 65.407377,27.598846 C 99.524649,52.52373 145.41778,114.17066 164.75588,186.69787 C 182.67123,253.88912 183.99402,312.95416 184.55487,374.78827 L 120.20815,371.95985 C 97.438003,332.96605 70.426315,270.38769 57.629203,225.58875 C 39.207944,161.10132 36.237332,100.26128 33.941125,39.266108 C 33.74455,34.044386 38.024051,32.840364 40.305087,36.791234 C 45.03696,44.987079 53.033009,72.32335 57.27565,70.73236 C 61.51829,69.14137 54.551509,40.5939 57.275649,30.427273 C 58.25374,26.776987 60.167881,23.771054 65.407377,27.598846 z "
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path2021" />
+      <path
+         d="M 58,151.5 C 58,151.5 20.840169,200.52318 29.5,213.5 C 42.878516,233.54781 73,202.48295 73,183"
+         style="overflow: visible; marker: none; opacity: 1; color: black; fill: rgb(239, 30, 36); fill-opacity: 1; fill-rule: evenodd; stroke: black; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         id="path2023" />
+      <path
+         d="M 71.5,263.5 C 68.647567,262.78689 24.082613,305.40193 28,313.5 C 38.529011,335.2657 74.776826,301.16096 82.5,285"
+         style="overflow: visible; marker: none; opacity: 1; color: black; fill: rgb(239, 30, 36); fill-opacity: 1; fill-rule: evenodd; stroke: black; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         id="path2025" />
+      <path
+         d="M 81,276.5 C 81,276.5 35.655607,323.40161 47,336 C 65.353112,356.38185 103.39237,332.17615 101,295"
+         style="overflow: visible; marker: none; opacity: 1; color: black; fill: rgb(239, 30, 36); fill-opacity: 1; fill-rule: evenodd; stroke: black; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         id="path2027" />
+      <path
+         d="M 243.71231,234.76777 C 219.79332,219.31357 194.93245,206.3152 167.73744,197.88388"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: url(#linearGradient8243) rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path1879" />
+      <path
+         d="M 239.2981,247.56066 C 217.88539,230.58925 194.72823,220.12004 171,211"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: url(#linearGradient8245) rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path1881" />
+      <path
+         d="M 236.88388,257.90533 C 219.68754,242.94721 197.587,231.12901 173.46967,223.32322"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: url(#linearGradient8247) rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path1883" />
+      <path
+         d="M 234.54994,271.69638 C 216.54711,258.59978 195.351,246.2788 175,236"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: url(#linearGradient8249) rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path1885" />
+      <path
+         d="M 233.19638,283.03217 C 215.73209,271.91668 197.82612,260.65538 177.91421,253.29289"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: url(#linearGradient8251) rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path1887" />
+      <path
+         d="M 231.90349,296.63388 C 215.44353,285.3854 197.95527,274.96496 179.5,267"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: url(#linearGradient8253) rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path1889" />
+      <path
+         d="M 230.84099,308.48744 C 215.98954,298.33889 198.20817,287.79183 181,280"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: url(#linearGradient8255) rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path1891" />
+      <path
+         d="M 36.25,112.75 C 39.5,118.5 55.875,142.875 78.25,141.75 C 100.625,140.625 119.05335,92.938282 121.5,86"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 3; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+         id="path1893" />
+      <path
+         d="M 63.25,56.25 L 58.125,56.90625 C 58.807638,64.110792 59.134749,70.023688 57.28125,70.71875 C 55.216105,71.493179 52.253182,65.42091 49.21875,58.03125 L 45.5,58.5 C 48.904434,66.349386 53.615697,89.119497 61,87.75 C 68.433057,86.371461 66.848087,70.78558 63.25,56.25 z "
+         style="overflow: visible; marker: none; opacity: 1; color: black; fill: url(#linearGradient3674) rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         id="path2781" />
+      <path
+         d="M 48.25,88.5 C 51.142415,94.392415 53.651304,104.17027 65.5,103.75 C 76.849311,103.34744 72.530807,62.537893 69.25,46"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 2; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+         id="path3676" />
+      <path
+         d="M 101.75 79.625 A 9.625 9.625 0 1 1  82.5,79.625 A 9.625 9.625 0 1 1  101.75 79.625 z"
+         transform="matrix(0.732673, 0, 0, 0.732673, 22.7525, 21.4109)"
+         style="overflow: visible; marker: none; opacity: 1; color: black; fill: black; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(239, 30, 36); stroke-width: 5.99995; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         id="path3678" />
+      <path
+         d="M 142,144 L 107.5,208"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3682" />
+      <path
+         d="M 146,151.5 L 111.5,215.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3684" />
+      <path
+         d="M 150.5,159.5 L 116,223.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3686" />
+      <path
+         d="M 155,167.5 L 120.5,231.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3688" />
+      <path
+         d="M 158.5,179 L 124,243"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3690" />
+      <path
+         d="M 160.5,192 L 128,251"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3692" />
+      <path
+         d="M 162,205 L 131.5,260.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3694" />
+      <path
+         d="M 165,215 L 133.5,273.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3696" />
+      <path
+         d="M 169.5,223 L 137,283"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3698" />
+      <path
+         d="M 172.5,231 L 139.5,291.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3700" />
+      <path
+         d="M 173,240.5 L 142,298"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3702" />
+      <path
+         d="M 175.5,250.5 L 146,304"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3704" />
+      <path
+         d="M 177.5,261 L 149,311"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3706" />
+      <path
+         d="M 177.5,274 L 153,315.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3708" />
+      <path
+         d="M 177.5,288 L 159,318"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3710" />
+      <path
+         d="M 179.5,297 L 166,321"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3712" />
+      <path
+         d="M 171.5,317.5 L 143.5,304"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3714" />
+      <path
+         d="M 178,313 L 141,294"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3716" />
+      <path
+         d="M 178,302.5 L 138.5,285"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3718" />
+      <path
+         d="M 108.5,201 L 170,227.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3722" />
+      <path
+         d="M 108.5,209.5 L 170,236"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3724" />
+      <path
+         d="M 120.52082,224.8033 L 170,246"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3726" />
+      <path
+         d="M 123.93503,232.59619 L 172,254.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3728" />
+      <path
+         d="M 123.96016,242.53553 L 174.5,265.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3730" />
+      <path
+         d="M 133.23833,257.27817 L 176,276"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3732" />
+      <path
+         d="M 134.67767,266.27817 L 178.5,285"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3734" />
+      <path
+         d="M 135.73833,275.27817 L 178.5,294"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3736" />
+      <path
+         d="M 111.77817,192.88909 L 165.5,215.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3738" />
+      <path
+         d="M 114.28858,185.15685 L 162,206"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3740" />
+      <path
+         d="M 115.47056,174.07107 L 160,193.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3742" />
+      <path
+         d="M 116.5061,162.27817 L 157.5,181"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3744" />
+      <path
+         d="M 123.84493,156.66726 L 156,171.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3746" />
+      <path
+         d="M 129.5,150.5 L 152,159.5"
+         style="fill: none; fill-opacity: 0.75; fill-rule: evenodd; stroke: rgb(0, 139, 208); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+         id="path3720" />
+    </g>
+    <use
+       transform="matrix(-1, 0, 0, 1, 501.443, 0)"
+       id="use7350"
+       x="0"
+       y="0"
+       width="500"
+       height="565"
+       xlink:href="#g7299" />
+    <path
+       d="M 38.6875,345.53125 C 22.064433,345.53125 10.551122,352.57805 1,359.46875 L 1,365 C 1,465 125,564 250,564 C 375,564 499,465 499,365 L 499,357.9375 C 492.25131,351.71764 485.49725,345.53125 472,345.53125 C 444.91833,345.53125 444.89417,370.46876 417.8125,370.46875 C 390.73084,370.46875 390.73793,345.53124 363.65625,345.53125 C 336.57458,345.53125 336.58167,370.46876 309.5,370.46875 C 282.41833,370.46875 282.42543,345.53124 255.34375,345.53125 C 228.26208,345.53125 228.26917,370.46876 201.1875,370.46875 C 174.10584,370.46875 174.08167,345.53124 147,345.53125 C 119.91834,345.53125 119.92543,370.46876 92.84375,370.46875 C 65.762082,370.46875 65.769169,345.53124 38.6875,345.53125 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 139, 208);stroke-width:1.03997000000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2019" />
+  </g>
+</svg>

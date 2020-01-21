@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="565"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="I:\Wikipedia\Suomi\Vaakunat"
+   sodipodi:docname="Ristijarvi.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 282.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 282.5 : 1"
+       inkscape:persp3d-origin="250 : 188.33333 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="194.38181"
+     inkscape:cy="310.15392"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-points="true"
+     gridtolerance="1px"
+     inkscape:window-width="1008"
+     inkscape:window-height="732"
+     inkscape:window-x="0"
+     inkscape:window-y="0">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="2px"
+       spacingy="2px"
+       color="#0000ff"
+       empcolor="#0000ff"
+       opacity="0.2"
+       empopacity="0.4"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#0057f0;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0.4999921,0.4999969 L 499.5,0.4999969 L 499.5,360 C 499.5,473 370,564.5 250,564.5 C 130,564.5 0.4999921,473 0.4999921,360 L 0.4999921,0.4999969 z "
+       id="path6670"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="cccczzzzzzc"
+       id="path3221"
+       d="M 483.70016,427.60163 C 445.60954,507.34916 344.83793,564.5 250,564.5 C 155.40702,564.5 54.910942,507.64398 16.596223,428.21907 C 38,427 40,385 70,385 C 102,385 100,429 130,429 C 160,429 160,385 190,385 C 220,385 220,429 250,429 C 280,429 280,385 310,385 C 340,385 340,429 370,429 C 400,429 400,385 430,385 C 460,385 462,425 483.70016,427.60163 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path3226"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 230,225.5 L 206,225.5 L 154,277.5 L 130,277.5 L 130,253.5 L 160,223.5 L 110,223.5 L 90,205.5 L 110,187.5 L 160,187.5 L 130,157.5 L 130,133.5 L 154,133.5 L 206,185.5 L 230,185.5 L 230,161.5 L 178,109.5 L 178,85.499997 L 202,85.499997 L 232,115.5 L 232,65.5 L 250,45.5 L 268,65.5 L 268,115.5 L 298,85.499997 L 322,85.499997 L 322,109.5 L 270,161.5 L 270,185.5 L 294,185.5 L 346,133.5 L 370,133.5 L 370,157.5 L 340,187.5 L 390,187.5 L 410,205.5 L 390,223.5 L 340,223.5 L 370,253.5 L 370,277.5 L 346,277.5 L 294,225.5 L 270,225.5 L 270,249.5 L 322,301.5 L 322,325.5 L 298,325.5 L 268,295.5 L 268,345.5 L 250,365.5 L 232,345.5 L 232,295.5 L 202,325.5 L 178,325.5 L 178,301.5 L 230,249.5 L 230,225.5 z "
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

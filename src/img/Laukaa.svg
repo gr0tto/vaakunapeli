@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="500px"
+   height="569px"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   viewBox="0 0 500 569"
+   version="1.0"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Laukaa.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs12"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 284.5 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="500 : 284.5 : 1"
+     inkscape:persp3d-origin="250 : 189.66667 : 1"
+     id="perspective16" /></defs><sodipodi:namedview
+   inkscape:window-height="669"
+   inkscape:window-width="640"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="false"
+   inkscape:zoom="0.81195079"
+   inkscape:cx="250"
+   inkscape:cy="284.5"
+   inkscape:window-x="161"
+   inkscape:window-y="159"
+   inkscape:current-layer="svg2" />
+ <g
+   id="Layer_x0020_1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   id="path1937"
+   fill="#B2B2B2"
+   stroke="black"
+   stroke-width="0.708662"
+   d="M0.166677 0.418961l499.501 -0.0691654 -1.944 338.682c-19.6501,135.951 -103.974,229.963 -249.531,229.6 -136.877,0.224221 -224.341,-79.4404 -246.729,-224.67l-1.2977 -343.542z"
+   style="fill:#cccccc" />
+  <polygon
+   fill="#006633"
+   stroke="#006633"
+   stroke-width="1.98425"
+   points="274.129,303.575 274.129,244.656 327.112,202.929 402.006,202.8 418.836,185.852 402.29,169.819 370.095,169.528 408.347,139.582 408.352,112.102 381.256,112.086 346.915,138.056 346.836,106.827 329.23,89.4816 311.605,107.139 311.669,164.712 274.129,193.101 274.129,122.761 330.787,68.6166 331.053,37.0401 299.698,37.9301 274.129,63.1579 274.167,33.0225 250.058,8.9144 225.949,33.0225 225.949,63.1579 200.38,37.9301 169.025,37.0401 169.291,68.6166 225.949,122.761 225.949,193.101 188.409,164.712 188.473,107.139 170.849,89.4816 153.242,106.827 153.163,138.056 118.822,112.086 91.7258,112.102 91.7317,139.582 129.984,169.528 97.7882,169.819 81.2421,185.852 98.0726,202.8 172.966,202.929 225.949,244.656 225.949,303.575"
+   id="polygon7" />
+  <path
+   fill="#F00000"
+   stroke="#F00000"
+   stroke-width="1.98425"
+   d="M247.923 551.387c-27.0601,-112.767 -162.49,-102.736 -162.567,-213.805 -0.0493229,-71.2378 91.8976,-122.397 165.713,-36.8629 74.177,-85.5341 167.86,-36.4723 167.811,34.7652 -0.0768189,111.069 -143.765,103.136 -170.958,215.903z"
+   id="path9" />
+ </g>
+</svg>

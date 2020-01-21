@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="500px"
+   height="536px"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   viewBox="0 0 500 536"
+   version="1.0"
+   id="svg2"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Rautjärvi.vaakuna.svg"><metadata
+   id="metadata16"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs14">
+  
+  
+  
+  
+  
+ </defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="738"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="0.96828358"
+   inkscape:cx="250"
+   inkscape:cy="268"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+ <path
+   style="fill:#0057f0;fill-opacity:1"
+   inkscape:connector-curvature="0"
+   d="m 0.088063,1.91887 499.999997,0 -24.9997,335 c -10.0003,99.9999 -101.169,198.831 -226.169,198.831 -121.493,-2.33802 -203.309997,-99.9999 -223.830997,-198.831 l -24.9997,-335 z"
+   id="path1937" /><polygon
+   style="fill:#d9d9d9;fill-opacity:1"
+   points="462.024,114.404 426.671,175.625 449.926,168.11 417.231,219.258 385.446,167.155 410.665,175.172 374.962,114.741 397.238,118.418 362.474,64.3786 331.276,117.524 350.42,114.112 315.066,175.333 338.322,167.818 305.627,218.966 273.842,166.863 299.061,174.88 263.358,114.449 285.634,118.125 250.869,63.7943 218.795,117.232 237.94,113.82 202.586,175.041 225.841,167.525 193.146,218.674 161.361,166.571 186.58,174.588 150.877,114.157 173.153,117.833 138.389,63.7943 107.049,116.888 126.193,113.476 90.8395,174.697 114.095,167.181 81.4001,218.33 49.615,166.227 74.8339,174.244 39.1306,113.813 61.4071,117.489 26.6423,63.4504 6.59868,89.1602 0.088063,1.91887 500.088,1.91887 493.617,88.6334 473.38,65.0132 442.88,117.816 "
+   id="path1937_0" /><path
+   style="fill:#d9d9d9;fill-opacity:1"
+   inkscape:connector-curvature="0"
+   id="path8"
+   d="m 249.003,279.96 c 28.4931,0 54.0197,12.7276 71.2041,32.8052 l 17.9388,-10.7603 -7.59194,-11.3692 51.2822,-4.34759 -22.6942,46.9663 -6.77329,-10.9916 -17.9569,12.8319 c 5.31704,11.7589 8.27755,24.8107 8.27755,38.5516 0,51.7323 -41.9535,93.6862 -93.6862,93.6862 -51.7327,0 -93.6862,-41.9535 -93.6862,-93.6862 0,-51.7327 41.9535,-93.6862 93.6862,-93.6862 z" /><circle
+   style="fill:#0057f0;fill-opacity:1"
+   sodipodi:ry="62.7897"
+   sodipodi:rx="62.7897"
+   sodipodi:cy="372.64999"
+   sodipodi:cx="248.007"
+   id="circle10"
+   r="62.7897"
+   cy="372.64999"
+   cx="248.007" />
+</svg>

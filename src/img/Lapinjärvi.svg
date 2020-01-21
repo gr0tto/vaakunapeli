@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="555"
+   id="svg1901"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Lapinjärvi.vaakuna.svg"
+   sodipodi:docbase="/"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs1903">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 277.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 277.5 : 1"
+       inkscape:persp3d-origin="250 : 185 : 1"
+       id="perspective11" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="462.52"
+     inkscape:cy="336.2658"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     gridtolerance="10000"
+     inkscape:window-width="1008"
+     inkscape:window-height="732"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     width="500px"
+     height="555px"
+     showgrid="false" />
+  <metadata
+     id="metadata1906">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:identifier>http://commons.wikimedia.org/wiki/Image:Lapinjärvi.vaakuna.svg</dc:identifier>
+        <dc:title>Lapinjärven vaakuna, Lappträsks vapen, Coat of arms of Lapinjärvi</dc:title>
+        <dc:date>2007-09-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Hippophaë, Wikipedia</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Lapinjärvi</rdf:li>
+            <rdf:li>Lappträsk</rdf:li>
+            <rdf:li>vaakuna</rdf:li>
+            <rdf:li>vapen</rdf:li>
+            <rdf:li>coat of arms</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Taso 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity: 1;">
+    <path
+       style="fill:#0056f0;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0.5,0.5 L 499.5,0.5 L 499.5,320 C 499.5,440 405,554.5 250,554.5 C 95,554.5 0.5,440 0.5,320 L 0.5,0.5 z "
+       id="path2167"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path7061"
+       d="M 250,0.5 L 499.5,0.5 L 499.5,320 C 499.5,440 405,554.5 250,554.5 L 250,0.5 z "
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path7065"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 142.5,135 L 142.5,98.3 C 156.2,104.1 170,94 170,80.5 C 170,67 156.2,56.9 142.5,62.5 C 149.5,47.5 138.5,34 125,34 C 111.5,34 100.5,47.5 107.5,62.5 C 93.8,56.9 80,67 80,80.5 C 80,94 93.8,104.1 107.5,98.3 L 107.5,135 L 85.8,135 C 91.6,121.3 81.5,107.5 68,107.5 C 54.5,107.5 44.4,121.3 50,135 C 35,128 21.5,139 21.5,152.5 C 21.5,166 35,177 50,170 C 44.4,183.7 54.5,197.5 68,197.5 C 81.5,197.5 91.6,183.7 85.8,170 L 107.5,170 L 107.5,230 L 37.4,445.15 C 13.5,408 0.5,364.5 0.5,320 L 0.5,0.5 L 250,0.5 L 250,554.5 L 142.5,230 L 142.5,170 L 164.2,170 C 158.4,183.7 168.5,197.5 182,197.5 C 195.5,197.5 205.6,183.7 200,170 C 215,177 228.5,166 228.5,152.5 C 228.5,139 215,128 200,135 C 205.6,121.3 195.5,107.5 182,107.5 C 168.5,107.5 158.4,121.3 164.2,135 L 142.5,135 z "
+       sodipodi:nodetypes="ccscscscccscscscccccccccccscscscc" />
+    <path
+       sodipodi:nodetypes="ccscscscccscscscccccccccccscscscc"
+       d="M 357.5,135 L 357.5,98.3 C 343.8,104.1 330,94 330,80.5 C 330,67 343.8,56.9 357.5,62.5 C 350.5,47.5 361.5,34 375,34 C 388.5,34 399.5,47.5 392.5,62.5 C 406.2,56.9 420,67 420,80.5 C 420,94 406.2,104.1 392.5,98.3 L 392.5,135 L 414.2,135 C 408.4,121.3 418.5,107.5 432,107.5 C 445.5,107.5 455.6,121.3 450,135 C 465,128 478.5,139 478.5,152.5 C 478.5,166 465,177 450,170 C 455.6,183.7 445.5,197.5 432,197.5 C 418.5,197.5 408.4,183.7 414.2,170 L 392.5,170 L 392.5,230 L 462.6,445.15 C 486.5,408 499.5,364.5 499.5,320 L 499.5,0.5 L 250,0.5 L 250,554.5 L 357.5,230 L 357.5,170 L 335.8,170 C 341.6,183.7 331.5,197.5 318,197.5 C 304.5,197.5 294.4,183.7 300,170 C 285,177 271.5,166 271.5,152.5 C 271.5,139 285,128 300,135 C 294.4,121.3 304.5,107.5 318,107.5 C 331.5,107.5 341.6,121.3 335.8,135 L 357.5,135 z "
+       style="fill:#0056f0;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path10965" />
+  </g>
+</svg>

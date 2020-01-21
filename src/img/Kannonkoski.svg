@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="565"
+   id="svg6579"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/"
+   sodipodi:docname="Kannonkoski.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs6581">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 282.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 282.5 : 1"
+       inkscape:persp3d-origin="250 : 188.33333 : 1"
+       id="perspective11" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="461"
+     inkscape:cy="324.67129"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1012"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     height="565px"
+     width="500px"
+     showgrid="false" />
+  <metadata
+     id="metadata6584">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kannonkosken vaakuna, Kannonkoski vapen, Coat of arms of Kannonkoski</dc:title>
+        <dc:date>2007-08-30</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Hippophaë, Wikipedia</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Kannonkoski</rdf:li>
+            <rdf:li>vaakuna</rdf:li>
+            <rdf:li>vapen</rdf:li>
+            <rdf:li>coat of arms</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:identifier>http://commons.wikimedia.org/wiki/Image:Kannonkoski.vaakuna.svg</dc:identifier>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       d="M 0.5,0.5 L 499.5,0.5 L 499.5,340 C 499.5,420 410,564.5 250,564.5 C 90,564.5 0.5,420 0.5,340 L 0.5,0.5 z "
+       id="path1344"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       id="path4857"
+       d="M 0.5,0.5 L 499.5,0.5 L 499.5,340 C 499.5,420 410,564.5 250,564.5 C 90,564.5 0.5,420 0.5,340 L 0.5,0.5 z "
+       style="fill:rgb(223, 223, 223);fill-opacity:1;fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:rgb(255, 0, 0);fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0.5,0.5 L 499.5,0.5 L 499.5,340 C 499.5,355 496.55,369 493,381.5 C 488,378 485,375 475,375 C 452.5,375 452.5,395 430,395 C 407.5,395 407.5,375 385,375 C 362.5,375 362.5,395 340,395 C 317.5,395 317.5,375 295,375 C 272.5,375 272.5,395 250,395 C 227.5,395 227.5,375 205,375 C 182.5,375 182.5,395 160,395 C 137.5,395 137.5,375 115,375 C 92.5,375 92.5,395 70,395 C 47.5,395 47.5,375 25,375 C 15,375 12,378 7,381.5 C 3.45,369 0.5,355 0.5,340 L 0.5,0.5 z "
+       id="path3164"
+       sodipodi:nodetypes="ccccsssssssssssccc" />
+    <path
+       id="path5104"
+       style="fill:rgb(223, 223, 223);fill-rule:evenodd;stroke:rgb(0, 0, 0);stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 175,50 L 270,50 L 287,80 L 320,50 L 325,50 L 325,190 C 325,207 339.94823,228.04065 365.50022,228.5 C 375.24707,228.67522 386.63854,223.04255 399.00028,223.5 C 413.41066,224.03326 430.1878,235.11043 439.25036,235.25 C 450.07946,235.41678 474.33376,231 461.0004,190.75 C 480.1671,200.41667 483.66721,215.94237 483.50044,227 C 483.29426,240.6709 473.91709,264.58333 443.50037,266 C 448.83371,283.08333 467.24363,285.17457 467.50041,303 C 467.67099,314.67586 464.08374,324.83333 446.50037,330.25 C 455.16705,316.08333 453.13911,304.06513 443.00037,298.75 C 434.17879,294.12538 418.74962,289.09325 419.00032,279 C 419.46571,260.26303 412.02541,252.10817 376.00024,258 C 375.16691,312.58333 408.46345,287.52749 408.0003,321 C 407.87881,329.45188 404.25029,335 393.50027,341 C 399.16695,321.5 389.6841,312.77143 376.75024,309.5 C 367.02323,307.03969 356.7928,298.87816 355.2502,284.75 C 354.07366,273.97448 348.11707,260.89447 326.75014,260 C 311.49914,259.354 302.16677,251.41667 290.50007,242 C 285.33339,247.91667 280.54484,253.44992 280.75006,259 C 281.30443,273.99312 291.60436,274.02072 301.5001,277.5 C 313.32721,281.65834 321.54954,293.12342 327.50014,308 C 334.8708,326.42671 350.33352,332.16667 369.00023,330.5 C 360.75021,339.25 352.19912,343.63856 343.00018,342.5 C 312.40242,338.71287 293.83341,301 277.50005,301.5 C 268.33336,373.33333 260,385 250,385 C 240,385 231.66667,373.33333 222.5,301.5 C 206.16667,301 187.5977,338.71287 157,342.5 C 147.80108,343.63856 139.25,339.25 131,330.5 C 149.66667,332.16667 165.12936,326.42671 172.5,308 C 178.45059,293.12342 186.67291,281.65834 198.5,277.5 C 208.39572,274.02072 218.69563,273.99312 219.25,259 C 219.45522,253.44992 214.66667,247.91667 209.5,242 C 197.83333,251.41667 188.50097,259.354 173.25,260 C 151.88312,260.89447 145.92654,273.97448 144.75,284.75 C 143.2074,298.87816 132.97699,307.03969 123.25,309.5 C 110.31617,312.77143 100.83333,321.5 106.5,341 C 95.75,335 92.121485,329.45188 92,321 C 91.536843,287.52749 124.83333,312.58333 124,258 C 87.974893,252.10817 80.53461,260.26303 81,279 C 81.250697,289.09325 65.821552,294.12538 57,298.75 C 46.861278,304.06513 44.833333,316.08333 53.5,330.25 C 35.916667,324.83333 32.329414,314.67586 32.5,303 C 32.75678,285.17457 51.166667,283.08333 56.5,266 C 26.083333,264.58333 16.706175,240.6709 16.5,227 C 16.333237,215.94237 19.833333,200.41667 39,190.75 C 25.666667,231 49.920914,235.41678 60.75,235.25 C 69.812533,235.11043 86.589642,224.03326 101,223.5 C 113.36172,223.04255 124.75317,228.67522 134.5,228.5 C 160.05194,228.04065 175,207 175,190 L 175,50 z "
+       sodipodi:nodetypes="cccssscscccsscccssccssscscccscsssccsscccsscccscsssccccc" />
+  </g>
+</svg>

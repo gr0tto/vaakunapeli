@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="590"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Isojoki.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 295 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 295 : 1"
+       inkscape:persp3d-origin="250 : 196.66667 : 1"
+       id="perspective12" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.78305085"
+     inkscape:cx="250"
+     inkscape:cy="295"
+     inkscape:window-x="46"
+     inkscape:window-y="46"
+     inkscape:current-layer="svg2" />
+  <g
+     id="layer2">
+    <path
+       d="M 0,0 L 500,0 L 500,375 C 500,500 375,590 250,590 C 125,590 7.6537897e-15,500 0,375 L 0,0 z "
+       style="fill: black;"
+       id="path1998" />
+    <path
+       d="M 155,0 L 155,572.8125 C 185.21428,583.94059 217.61119,590 250,590 C 282.38881,590 314.78572,583.94059 345,572.8125 L 345,0 L 155,0 z "
+       style="fill:#cccccc"
+       id="path2000" />
+    <path
+       d="M 255,565 L 255,460 L 295,415 L 310,15 L 305,15 L 290,395 L 275,405 L 275,395 L 285,375 L 285,365 L 275,365.00512 L 275,353.67145 L 284.93868,342.33777 L 284.93868,331.0041 L 275,331.0041 L 275,319.67042 L 284.93868,308.33675 L 284.93868,297.00307 L 275,297.00307 L 275,285.6694 L 284.93868,274.33573 L 284.93868,263.00205 L 275,263.00205 L 275,251.66838 L 284.93868,240.3347 L 284.93868,229.00103 L 275,229.00103 L 275,217.66735 L 285,205 L 295,15 L 290,15 L 280,190 L 275,190 L 275,15 L 270,15 L 265,195 L 255,205 L 255,15 L 245,15 L 245,205 L 235,195 L 230,15 L 225,15 L 225,190 L 220,190 L 210,15 L 205,15 L 215,205 L 224.96934,217.69801 L 224.96934,229.03169 L 215.03066,229.03169 L 215.03066,240.36536 L 224.96934,251.69904 L 224.96934,263.03271 L 215.03066,263.03271 L 215.03066,274.36639 L 224.96934,285.70006 L 224.96934,297.03373 L 215.03066,297.03373 L 215.03066,308.36741 L 224.96934,319.70108 L 224.96934,331.03476 L 215.03066,331.03476 L 215.03066,342.36843 L 224.96934,353.70211 L 224.98467,365.01789 L 215,365 L 215,375 L 225,395 L 225,405 L 210,395 L 195,15 L 190,15 L 205,415 L 245,460 L 245,565 L 255,565 z "
+       style="fill: rgb(237, 28, 37);"
+       id="path2002" />
+  </g>
+</svg>

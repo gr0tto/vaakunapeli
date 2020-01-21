@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="500px"
+   height="538px"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   viewBox="0 0 500 538"
+   version="1.0"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Salla.vaakuna.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs9"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 269 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="500 : 269 : 1"
+     inkscape:persp3d-origin="250 : 179.33333 : 1"
+     id="perspective13" /></defs><sodipodi:namedview
+   inkscape:window-height="669"
+   inkscape:window-width="640"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="false"
+   inkscape:zoom="0.30360905"
+   inkscape:cx="250"
+   inkscape:cy="269"
+   inkscape:window-x="23"
+   inkscape:window-y="23"
+   inkscape:current-layer="svg2" />
+ <g
+   id="Layer_x0020_1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   id="path1937"
+   fill="#0581ED"
+   stroke="black"
+   stroke-width="0.368504"
+   d="M0.174331 -0.0229606l499.554 -0.121606 -16.727 309.035c-16.1204,152.984 -134.418,195.051 -232.474,228.598 -113.396,-40.4235 -211.814,-80.9618 -237.945,-227.245l-12.4075 -310.266z" />
+  <path
+   id="path1937_0"
+   fill="#B2B2B2"
+   d="M487.495 227.512l-4.49433 81.3785c-2.7703,26.2939 -8.33273,48.8948 -16.1878,68.55 -131.613,-84.4558 -290.9,-86.9466 -434.555,-1.34561 -8.52038,-18.9938 -15.1855,-40.7098 -19.6767,-65.8517l-3.34063 -85.3229c161.984,-98.7293 325.249,-95.353 478.254,2.59172z"
+   style="fill:#cccccc" />
+ </g>
+</svg>
