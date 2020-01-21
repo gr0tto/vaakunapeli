@@ -94,8 +94,10 @@ class Game extends React.Component {
     var wrong = this.state.wrongGuesses;
     if (this.state.options[i] == names[currentImage]) {
       console.log("OIKEIN - " + this.state.options[i] + " on " + names[currentImage]);
-      if (wrong.includes("0") | wrong.includes("1") | wrong.includes("2") | wrong.includes("3")) {
+      console.log("Wrong " + wrong);
+      if (wrong.length < 1) {
         score += 200;
+        console.log("BONUS!");
       }
       score += 200;
       this.refreshImage();
