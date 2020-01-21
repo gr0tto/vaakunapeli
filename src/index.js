@@ -44,9 +44,14 @@ console.log(imagesCount);
 console.log(currentImage);
 
 function getNewOptions(n) {
-  var false1 = Math.floor(Math.random() * imagesCount);
-  var false2 = Math.floor(Math.random() * imagesCount);
-  var false3 = Math.floor(Math.random() * imagesCount);
+  var false1;
+  var false2;
+  var false3;
+  while(false1 != false2 != false3) {
+    false1 = Math.floor(Math.random() * imagesCount);
+    false2 = Math.floor(Math.random() * imagesCount);
+    false3 = Math.floor(Math.random() * imagesCount);
+  }
   var options = [names[currentImage], names[false1], names[false2], names[false3]];
   console.log(options);
   shuffle(options);
