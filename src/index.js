@@ -93,8 +93,7 @@ class Game extends React.Component {
   handleClick(i) {
     var wrong = this.state.wrongGuesses;
     if (this.state.options[i] == names[currentImage]) {
-      console.log("OIKEIN - " + this.state.options[i] + " on " + names[currentImage]);
-      console.log("Wrong " + wrong);
+      //console.log("OIKEIN - " + this.state.options[i] + " on " + names[currentImage]);
       if (wrong.length < 1) {
         score += 200;
         console.log("BONUS!");
@@ -102,7 +101,7 @@ class Game extends React.Component {
       score += 200;
       this.refreshImage();
     } else {
-      console.log("VÄÄRIN - " + this.state.options[i] + " ei ole " + names[currentImage]);
+      //console.log("VÄÄRIN - " + this.state.options[i] + " ei ole " + names[currentImage]);
       if (!wrong.includes(i)) {
         wrong.push(i);
         score -= 100;
