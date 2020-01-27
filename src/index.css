@@ -63,4 +63,5 @@ button {
 .right {
   background: #66ff66;
   border: none;
+  animation-name: reward;
 }

@@ -83,29 +83,35 @@ class Game extends React.Component {
       current: currentImage,
       options: getNewOptions(currentImage),
       wrongGuesses: Array(),
-      right: false
+      right: 99
     };
   }
   refreshImage() {
-    currentImage = Math.floor(Math.random() * imagesCount);
-    this.setState({
-      current: currentImage,
-      options: getNewOptions(currentImage),
-      wrongGuesses: Array(),
-      right: false
-    });
+    setTimeout(() => {
+      currentImage = Math.floor(Math.random() * imagesCount);
+      this.setState({
+        current: currentImage,
+        options: getNewOptions(currentImage),
+        wrongGuesses: Array(),
+        right: 99
+      });
+    }, 500);
   }
   handleClick(i) {
     var wrong = this.state.wrongGuesses;
     if (this.state.options[i] == names[currentImage]) {
-      //console.log("OIKEIN - " + this.state.options[i] + " on " + names[currentImage]);
+      console.log("OIKEIN - " + this.state.options[i] + " on " + names[currentImage]);
       if (wrong.length < 1) {
         score += 200;
         console.log("BONUS!");
       }
+      this.setState({
+        right: i
+      });
       score += 200;
       this.refreshImage();
     } else {
+      var wrong = this.state.wrongGuesses;
       //console.log("VÄÄRIN - " + this.state.options[i] + " ei ole " + names[currentImage]);
       if (!wrong.includes(i)) {
         wrong.push(i);
@@ -118,10 +124,12 @@ class Game extends React.Component {
   }
   defineClass(i) {
     var guesses = this.state.wrongGuesses;
+    if (this.state.right == i) {
+      return "right"
+    }
     if (guesses.includes(i)) {
       return "wrong";
     } 
-
   }
   render() {
     return (
