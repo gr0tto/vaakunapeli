@@ -75,7 +75,6 @@ function shuffle(array) {
 
 
 class Game extends React.Component {
-
   constructor(props) {
     super(props);
     currentImage = Math.floor(Math.random() * imagesCount);
@@ -95,7 +94,7 @@ class Game extends React.Component {
         wrongGuesses: Array(),
         right: 99
       });
-    }, 500);
+    }, 1000);
   }
   handleClick(i) {
     var wrong = this.state.wrongGuesses;
@@ -129,7 +128,14 @@ class Game extends React.Component {
     }
     if (guesses.includes(i)) {
       return "wrong";
-    } 
+    }
+  }
+  getDisabled(i) {
+    if (this.state.right != 99 && this.state.right != i) {
+      return true;
+    } else {
+      return false;
+    }
   }
   render() {
     return (
@@ -141,10 +147,10 @@ class Game extends React.Component {
           <img src={images[this.state.current]} />
         </div>
         <div className="monivalinta">
-          <button className={this.defineClass(0)} onClick={() => this.handleClick(0)}>{this.state.options[0]}</button>
-          <button className={this.defineClass(1)} onClick={() => this.handleClick(1)}>{this.state.options[1]}</button>
-          <button className={this.defineClass(2)} onClick={() => this.handleClick(2)}>{this.state.options[2]}</button>
-          <button className={this.defineClass(3)} onClick={() => this.handleClick(3)}>{this.state.options[3]}</button>
+          <button className={this.defineClass(0)} onClick={() => this.handleClick(0)} disabled={this.getDisabled(0)}>{this.state.options[0]}</button>
+          <button className={this.defineClass(1)} onClick={() => this.handleClick(1)} disabled={this.getDisabled(1)}>{this.state.options[1]}</button>
+          <button className={this.defineClass(2)} onClick={() => this.handleClick(2)} disabled={this.getDisabled(2)}>{this.state.options[2]}</button>
+          <button className={this.defineClass(3)} onClick={() => this.handleClick(3)} disabled={this.getDisabled(3)}>{this.state.options[3]}</button>
         </div>
       </div>
     );
