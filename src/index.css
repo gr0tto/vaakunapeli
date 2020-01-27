@@ -46,14 +46,13 @@ img {
   margin: auto;
 }
 
-
 .vaakuna {
-  height: 60%;
+  height: 55%;
   /* background-color: green; */
 }
 
 .monivalinta {
-  height: 35%;
+  height: 220px%;
   width: 100%;
   position: absolute;
   bottom: 0;
